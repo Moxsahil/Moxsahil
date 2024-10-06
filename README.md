@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moxsahil
 - 👀 I’m interested in learning new ideas and innovation in today's IT sector
-- 🌱 I’m currently learning android studio
+- 🌱 I’m currently looking for job where I can showcase my skills I have
 - 💞️ I’m looking to collaborate on new projects to gain good experience work.
 - 📫 How to reach me on gmail - sahilmk01@gmail.com
 
