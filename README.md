@@ -157,7 +157,7 @@ class SahilBarak {
 
 ### 🔥 Featured Projects
 
-- 💰 **[MOX Finance Tracker](https://github.com/Moxsahil/Mox_Finance)** - Full-stack finance management app
+- 💰 **[MOX Finance Tracker](https://github.com/Moxsahil/Mox_Finance_Tracker)** - Full-stack finance management app
 - 🌐 **Portfolio Website** - Personal portfolio with modern design
 - 🎮 **Gaming Projects** - Interactive web games and tools
 
